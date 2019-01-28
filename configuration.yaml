@@ -3,7 +3,7 @@ homeassistant:
   name: RASPBERRY DI PROVA IN GALILEO
   # Location required to calculate the time the sun rises and sets
   latitude: 45.4312
-  longitude: 10.97011
+  longitude: 10.970118888888
   # Impacts weather/sunrise data (altitude above sea level in meters)
   elevation: 50
   # metric for Metric, imperial for Imperial
@@ -44,7 +44,7 @@ discovery:
 conversation:
 
 # Enables support for tracking state changes over time
-history:
+#history:
 
 # View all events in a logbook
 logbook:
